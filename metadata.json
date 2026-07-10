@@ -1,0 +1,6 @@
+{
+  "name": "La Reference",
+  "description": "Sistema de Gestão de Farmácia completo para a Farmácia La Reference, com perfis de utilizador, controle de stock, vendas POS, pedidos, reservas, entregas e relatórios estatísticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
